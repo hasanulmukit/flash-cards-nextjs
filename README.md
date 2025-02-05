@@ -1,6 +1,6 @@
-# FocusStudy
+# FocusStudy - A Flash Cards Study Tool
 
-FocusStudy is a modern Flashcard App built with Next.js (using the App Router) and Tailwind CSS. It is a simple study tool designed to help you memorize information using digital flashcards. With features such as flashcard creation, editing, deletion, category organization, spaced repetition for review, and a clean, concentration-friendly design, FocusStudy is the perfect companion for your study sessions.
+FocusStudy is a modern Flashcard App built with Next.js and Tailwind CSS. It is a simple study tool designed to help you memorize information using digital flashcards. With features such as flashcard creation, editing, deletion, category organization, spaced repetition for review, and a clean, concentration-friendly design, FocusStudy is the perfect companion for your study sessions.
 
 ## Table of Contents
 
